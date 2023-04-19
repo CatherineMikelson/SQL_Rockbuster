@@ -7,7 +7,7 @@ Perform analysis for Rockbuster, a ficticious movie rental company.  Analyze sal
 Data was provided through Career Foundry.
 
 ### Tools: 
-SQL, Tableau
+SQL, [Tableau](https://public.tableau.com/app/profile/catherine.mikelson)
 
 
 Note: This project was completed as part of the Career Foundry Data Analysis Bootcamp.
